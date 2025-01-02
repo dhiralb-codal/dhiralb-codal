@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dhiralb-codal
-- 👀 I’m interested in DevOps Engineering/Infra Setup, and Solutions Architecturing
-- 🌱 I’m currently learning DevOps, CI/CD Pipelines, Terraform, CDK
-- 💞️ I’m looking to collaborate on DevOps, Microservices, Multi-Infra Setup
-- 📫 How to reach me dbhuptani@codal.com, +91-95860-13752
+- 🌱 I’m currently leveraging and implementing DevOps, CI/CD Pipelines, Terraform, AWS CDK
+- 💞️ I’m collaborating on DevOps, Microservices Architecture, Multi-Infra Setup, Solution Architecturing, Mentorship
+- 📫 How to reach me dbhuptani@codal.com, +91-9586013752
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Surprisingly Funny!!!
 
